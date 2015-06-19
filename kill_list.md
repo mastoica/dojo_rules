@@ -1,6 +1,6 @@
 Kill List
 =========
-* O-Ren Ishii
-* 123var = Vernita Green
-* 			Elle Driver
+*blahbalh #### oh
+* 123var = Vern
+* 			Bad formatting
 * ###BILL
